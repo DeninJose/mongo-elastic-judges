@@ -5,8 +5,6 @@ from elasticsearch import Elasticsearch, helpers
 
 # Initialize Elasticsearch client
 es = Elasticsearch(
-    cloud_id="elastic-prod:YXAtc291dGgtMS5hd3MuZWxhc3RpYy1jbG91ZC5jb20kZTc5NTljYWI5ODI0NDM4OGJjNWZhYmI4ODFhYTU0YzUkZDU1ODNiYjk1NGI5NDJjY2E5ZjdmMTFjOTNhODUzNTI=",
-    basic_auth=("alcy_admin","Alcy123@")  # Replace with your Cloud credentials
 )
 
 
