@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 
-MONGO_URI="mongodb+srv://anfas:KOi4w1N653hmOJL8@dev-cluster0.d1umbsu.mongodb.net"
+
 MONGO_DATABASE="ll-judgement"
 MONGO_COLLECTION="judges"
 
